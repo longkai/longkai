@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-A senior backend engineer at Tencent.
+A senior backend engineer at Tencent. Gopher, network boy, former Android/Java developer.
 
 - 🔭 I’m currently working on Tencent Cloud
 - 🌱 I’m currently learning design
 - 👯 I’m looking to collaborate on Kubernetes related opens source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: `echo "aW0ubG9uZ2thaUBnbWFpbC5jb20K" | base64 --decode`
-
-### About me
-
-- Gopher
-- Network boy
-- Thinking design
-- Former Android/Java engineer
 
 ### Recent blogs
 
